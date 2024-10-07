@@ -1,12 +1,13 @@
 {
   "name": "discord-bot",
   "version": "1.0.0",
+  "description": "A Discord bot for streaming radio",
   "main": "bot.js",
-  "dependencies": {
-    "discord.js": "^14.0.0",
-    "@discordjs/voice": "^0.16.0"
-  },
   "scripts": {
     "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.0.0",
+    "@discordjs/voice": "^0.14.0"
   }
 }
