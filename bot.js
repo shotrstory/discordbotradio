@@ -73,6 +73,6 @@ client.on('messageCreate', async message => {
 });
 
 // Log in to Discord
-client.login('MTI5Mjk1MTY4NjE4ODM2NzkyNA.Gsh5UE.UCiVADbsAcUoTYg5lpZBPYfU954IfV9V5fTU6g'); // Replace with your actual token
+client.login('MTI5Mjk1MTY4NjE4ODM2NzkyNA.GVa28y.X98zuJFUaYutjRvbrSLJpa_j9a1F4htfA2IrQc'); // Replace with your actual token
 
 
