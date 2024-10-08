@@ -73,6 +73,6 @@ client.on('messageCreate', async message => {
 });
 
 // Log in to Discord
-client.login('DISCORD_TOKEN'); // Replace with your actual token
+client.login(process.env.DISCORD_TOKEN); // Replace with your actual token
 
 
